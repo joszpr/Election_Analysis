@@ -30,9 +30,5 @@ Charles Casper Stockham: 23.0% (85,213)
 Raymon Anthony Doane: 3.1 % (11,606)
 
 -------------------------
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
--------------------------
 
 ![Election Results Chart](https://user-images.githubusercontent.com/85839235/125213906-67cc4c00-e282-11eb-91b6-6453868d2f37.png)
