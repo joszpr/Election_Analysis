@@ -37,7 +37,7 @@ The parameters that were designed in this code can be modified in order to be us
 
    #### Multiple Variables Analysis ####
 If necessary and desired, the code can also provide other insights from the data set received. By example, with the current data we could identify how many votes every candidate received by county. In addition, if information regarding the number of registered voters by county is received, we could modify the code in order to provide understanding regarding voter participation.  Such analysis could provide awareness regarding the voting process by area and be the first path to identifying if there is any unbalanced voting dynamic between counties. 
-Furthermore, if candidates were aligned with a specific political party, it would be possible to calculate the results with political party affiliation filters. Depending on local and State election laws, that analysis may be necessary in order to assist in post-election decisions. 
+Furthermore, if candidates were aligned with a specific political party, it would be possible to calculate the results with political party affiliation filters. Depending on local and State election laws, such analysis may be necessary in order to assist in post-election decisions. 
 
 #### ****References and Links**** ####
 1️⃣ https://docs.python.org/3/library/profile.html#module-cProfile
