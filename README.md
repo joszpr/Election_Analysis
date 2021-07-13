@@ -29,15 +29,17 @@ o	Raymon Anthony Doane 	 11,606		  3.1%
 ![Election Results Chart](https://user-images.githubusercontent.com/85839235/125385563-bf44e780-e368-11eb-8bb7-ddeb4c60144b.png)
 
 ### **Election and Audit Results** ###
+      #### ** Scalability Possibilities ** ####
 The audit of the election was performed by creating a code with the programming language, Python, that will extract the requested information from the voting data and presents it in an easy-to-understand format. There are multiple benefits of using a robust machine analysis but primarily, it provides an accurate and fast assessment of data that could prevent human counting errors or influence. 
 The parameters that were designed in this code can be modified in order to be used in analysis for other elections. The code is scalable and can process larger amounts of data while maintaining its integrity. It can also be adjusted to process other variables of data, from multiple public officials positions in the same election to breaking down vote’s categories by city. To expand in the scalability options, a timer was inserted in the code ^1 in order to calculate the amount of time it took to process the data. The current analysis parameters were produced in 0.017 seconds. This also presents the prospect to provide frequent election status updates to the public shortly after the data is received.
 
 ![Run Time timer](https://user-images.githubusercontent.com/85839235/125385668-ee5b5900-e368-11eb-81e2-536541164090.png)
 
+      #### ** Multiple Variable Processing ** ####
 If necessary and desired, the code can also provide other insights from the data set received. By example, with the current data we could identify how many votes every candidate received by county. In addition, if information regarding the number of registered voters by county is received, we could modify the code in order to provide understanding regarding voter participation.  Such analysis could provide awareness regarding the voting process by area and be the first path to identifying if there is any unbalanced voting dynamic between counties. 
 Furthermore, if candidates were aligned with a specific political party, it would be possible to calculate the results with political party affiliation filters. Depending on local and State election laws, that analysis may be necessary in order to assist in post-election decisions. 
 
-### ****References and Links**** ###
+#### ****References and Links**** ####
 ^1 https://docs.python.org/3/library/profile.html#module-cProfile
 Code used for timer
 ![Code for timer](https://user-images.githubusercontent.com/85839235/125385878-5873fe00-e369-11eb-8cf3-329dd14fbb3d.png)
