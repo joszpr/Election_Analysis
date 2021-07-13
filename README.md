@@ -3,7 +3,7 @@
 ### **Overview** ###
 By the request of Colorado Board of Elections an audit was performed for the congressional election of Arapahoe, Denver and Jefferson counties. The audit was completed on the votes collected by the Board of Elections on and before election date and gathered by manual counting, scanner reading and electronic voting machines. The data contained 3 types of information; the unique Ballot ID assigned to every counted vote, the County in which the vote was recorded and the candidate who received credit for the vote. The goal of the inspection was to tabulate the winner candidate of the election by popular vote along with examination on voter turnout by county. 
 
-### **Audit methodology** ###
+### **Audit Methodology** ###
 The data was provided by the Board of Elections. The analysis was performed using the software’s Python 3.6.1 and PyCharm. First the total number of votes was calculated from the data set and all candidates that received votes were identified. Every vote was linked to the respective candidate and the percentage of votes each candidate received was calculated. The winner of the election by popular vote was identified and the analysis result was returned to the Colorado Board of Elections. 
 From the raw data, we performed the following analysis. A. Calculated the total numbers of votes B. Identified all the candidates that received votes C. Tallied the total number of votes every candidate received D. Calculated the percentage of votes every candidate received. E. After analyzing the data, the winner of the election by popular vote was identified.
 
