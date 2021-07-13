@@ -9,9 +9,9 @@ From the raw data, we performed the following analysis. A. Calculated the total 
 
 ### **Election and Audit Results** ###
 -	Total Number of Votes 	 	**	369,711**    **Percentage**
-  *	Denver				306,055	    82.8%
-  *	Jefferson 		  	  38,855		    10.5%
-  *	Arapahoe 		  	  24,801		      6.7%
+  -	Denver				306,055	    82.8%
+  -	Jefferson 		  	  38,855		    10.5%
+  -	Arapahoe 		  	  24,801		      6.7%
 
 
 •	County with highest participation was **Denver**
