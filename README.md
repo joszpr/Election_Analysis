@@ -8,7 +8,7 @@ The data was provided by the Board of Elections. The analysis was performed usin
 From the raw data, we performed the following analysis. A. Calculated the total numbers of votes B. Identified all the candidates that received votes C. Tallied the total number of votes every candidate received D. Calculated the percentage of votes every candidate received. E. After analyzing the data, the winner of the election by popular vote was identified.
 
 ### **Election and Audit Results** ###
-*	Total Number of Votes 	 	**	369,711**    **Percentage**
+-	Total Number of Votes 	 	**	369,711**    **Percentage**
   *	Denver				306,055	    82.8%
   *	Jefferson 		  	  38,855		    10.5%
   *	Arapahoe 		  	  24,801		      6.7%
