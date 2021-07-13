@@ -8,25 +8,25 @@ The data was provided by the Board of Elections. The analysis was performed usin
 From the raw data, we performed the following analysis. A. Calculated the total numbers of votes B. Identified all the candidates that received votes C. Tallied the total number of votes every candidate received D. Calculated the percentage of votes every candidate received. E. After analyzing the data, the winner of the election by popular vote was identified.
 
 ### **Election and Audit Results** ###
-1.	Total Number of Votes 	 	  **369,711**    **Percentage**
-    -	Denver				              306,055	        82.8%
-    -	Jefferson 		  	           38,855		      10.5%
-    -	Arapahoe 		  	             24,801		       6.7%
+1.	Total Number of Votes reported were **369,711** 
+    -	**Denver** reported 306,055 votes and had 82.8% of the total votes.
+    -	**Jefferson** reported 38,855 otes and had 10.5% of the total votes.
+    -	**Arapahoe** reported 24,801 otes and had 6.7% of the total votes.
 
 
 •	County with highest participation was **Denver**
 
-![Vote Distribution by County](https://user-images.githubusercontent.com/85839235/125385532-ae947180-e368-11eb-8493-faf366717325.png)
+![Vote Distribution by County](https://user-images.githubusercontent.com/85839235/125389123-b6efab00-e36e-11eb-849f-c4039256a9ca.png)
 
 
-•	Votes by Congressional Candidate		       **Percentage**
-o	Diana DeGette	 	             272,892		73.8%
-o	Charles Casper Stockham 	 85,213		23.0%
-o	Raymon Anthony Doane 	 11,606		  3.1%
+2.	Votes by Congressional Candidate
+    -	**Diana DeGette** received 272,892 votes with a percentage of 73.8% of the total votes.
+    -	**Charles Casper Stockham** received 85,213 votes with a percentage of 23.0% of the total votes.
+    -	**Raymon Anthony Doane** received 11,606 votes with a percentage of 3.1% of the total votes.
 
-•	The Winner of the popular vote for the Congressional election was **Diana DeGette** who received **272,892 total votes** from all counties and had **73.8% of the total votes**. 
+3. The Winner of the popular vote for the Congressional election was **Diana DeGette** who received **272,892 total votes** from all counties and had **73.8% of the total votes**. 
 
-![Election Results Chart](https://user-images.githubusercontent.com/85839235/125385563-bf44e780-e368-11eb-8bb7-ddeb4c60144b.png)
+![Election Results](https://user-images.githubusercontent.com/85839235/125389484-45fcc300-e36f-11eb-9ca8-55597fa4a654.png)
 
 ### **Election and Audit Results** ###
    #### Scalability Possibilities ####
@@ -35,7 +35,7 @@ The parameters that were designed in this code can be modified in order to be us
 
 ![Run Time timer](https://user-images.githubusercontent.com/85839235/125385668-ee5b5900-e368-11eb-81e2-536541164090.png)
 
-   #### Multiple Variable Processing ####
+   #### Multiple Variables Analysis ####
 If necessary and desired, the code can also provide other insights from the data set received. By example, with the current data we could identify how many votes every candidate received by county. In addition, if information regarding the number of registered voters by county is received, we could modify the code in order to provide understanding regarding voter participation.  Such analysis could provide awareness regarding the voting process by area and be the first path to identifying if there is any unbalanced voting dynamic between counties. 
 Furthermore, if candidates were aligned with a specific political party, it would be possible to calculate the results with political party affiliation filters. Depending on local and State election laws, that analysis may be necessary in order to assist in post-election decisions. 
 
